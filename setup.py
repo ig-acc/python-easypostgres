@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='easypostgres',
+    name='pbeasypostgres',
     version='0.1.0',
     author='ig-acc',
     author_email='igortalin8@gmail.com',

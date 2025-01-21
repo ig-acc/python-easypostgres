@@ -1,5 +1,5 @@
 import psycopg2 as ps
-from mapper import Mapper
+from .mapper import Mapper
 
 class Connection():
     def __init__(self, host, user, password, database):
