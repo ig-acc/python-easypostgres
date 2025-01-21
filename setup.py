@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     author='ig-acc',
     author_email='igortalin8@gmail.com',
-    description='Easy PostgreSQL database adapter for Python',
+    description='Easy PostgreSQL database adapter for Python based on psycopg2',
     packages=find_packages(),
     install_requires=[
         "psycopg2"
